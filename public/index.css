@@ -1,0 +1,12 @@
+body {
+  font-family: 'Anonymous Pro', monospace;
+}
+
+.title {
+  text-align: center;
+}
+
+.upload-form {
+  width: 50%;
+  margin: 0 auto;
+}
